@@ -6,15 +6,18 @@ body{
 
     font-size: 16px;
     margin: 30px;
+    background-image: url(images/tumblr_lt4cygopVz1r4ibs7o1_500.gif);
+
     
 
 }
-h2,h3{
+h2{
     font-family:cursive;
     font-size: 14px;
     background-image: url(images/liz.jpg);
-    padding: 10px;
+    padding: 20px;
     color: blue;
+    margin-right: 50%;
 }
 .intro header h1
 {
@@ -27,9 +30,28 @@ h2,h3{
 li{
     background-color: burlywood;
     padding-bottom: 2px;
-    margin: inherit;
+    
     padding-left: 23px;
-    margin-right: 4px;s
+    margin-left: 50%;
+    background-image: url(images/fondo1.gif);
+}
+p{
+    margin-right: 50%;
+    background-image: url(images/tumblr_lt4cygopVz1r4ibs7o1_500.gif);
+    background-repeat:repeat-x:
+    page-break-before: 20px;
+    
+
+        
+
+}
+h3{
+    margin-right: 50%;
+    font-family:cursive;
+    font-size: 14px;
+    background-image: url(images/liz.jpg);
+    padding: 10px;
+    color: blue;
 }
 
     
